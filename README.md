@@ -1,10 +1,8 @@
-# RegInight ⚖️ AI Legislative Impact Forecaster
+# RegInSight ⚖️ AI Legislative Impact Forecaster
 
-**LexiCast** is an AI-powered tool designed to provide an initial, rapid assessment of the potential impact of proposed legislation on existing laws. It helps legal professionals quickly identify potential interactions, conflicts, and overlaps, enabling them to focus their in-depth human review on the most critical areas.
+**RegInSight** is an AI-powered tool designed to provide an initial, rapid assessment of the potential impact of proposed legislation on existing laws. It helps legal professionals quickly identify potential interactions, conflicts, and overlaps, enabling them to focus their in-depth human review on the most critical areas.
 
-This project was developed for the [Name of Hackathon, e.g., Legal Frontier Hackathon].
-
-**Demo Video:** [Link to your Demo Video on YouTube/Loom - HIGHLY RECOMMENDED]
+This project was developed for the Legal Frontier Hackathon Project in Amsterdam.
 
 ## The Problem
 
@@ -12,7 +10,7 @@ When new legislation or regulations are proposed, legal professionals (legislati
 
 ## Our Solution: LexiCast
 
-LexiCast offers a streamlined solution by leveraging the power of Google's Gemini AI model to perform a comparative textual analysis.
+RegInSight offers a streamlined solution by leveraging the power of Google's Gemini AI model to perform a comparative textual analysis.
 
 **Key Features:**
 
@@ -72,7 +70,7 @@ The entire application (backend AI logic, Streamlit UI, and demo execution) is c
 
 ## Future Plans
 
-LexiCast has significant potential for future development:
+RegInSight has significant potential for future development:
 
 *   Integration with live legal databases (e.g., EUR-Lex).
 *   Advanced conflict detection using vector search and embeddings.
