@@ -1,4 +1,4 @@
-# LexiCast ⚖️ AI Legislative Impact Forecaster
+# RegInight ⚖️ AI Legislative Impact Forecaster
 
 **LexiCast** is an AI-powered tool designed to provide an initial, rapid assessment of the potential impact of proposed legislation on existing laws. It helps legal professionals quickly identify potential interactions, conflicts, and overlaps, enabling them to focus their in-depth human review on the most critical areas.
 
