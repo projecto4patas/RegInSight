@@ -4,6 +4,8 @@
 
 This project was developed for the Legal Frontier Hackathon Project in Amsterdam.
 
+The app can be recreated by running the Google Colab notebook in your own environment - https://colab.research.google.com/drive/1Bw9L9KjzetNIcF_pRLU9z2zAJ8Fa7CuO?usp=sharing
+
 ## The Problem
 
 When new legislation or regulations are proposed, legal professionals (legislative drafters, policy analysts, legal departments) face a complex and time-consuming task to identify how these new rules will impact the existing legal framework. Manually identifying all affected statutes, potential conflicts, or necessary amendments is prone to oversight and is resource-intensive.
